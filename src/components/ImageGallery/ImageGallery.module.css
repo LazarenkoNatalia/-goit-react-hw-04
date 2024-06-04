@@ -1,0 +1,19 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 1328px;
+    /* width: calc((100% - 48px) / 3); */
+    list-style-type: none;
+    margin: 0 auto;
+    margin-top: 75px;
+}

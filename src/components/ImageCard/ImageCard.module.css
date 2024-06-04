@@ -1,0 +1,22 @@
+ 
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    max-width: 310px;
+        max-height: 200px;
+        border: 1px solid #808080;
+}
+
+.descr {
+   margin: 0;
+   font-size: 16px;
+}
+
+.shortCard {
+    width: 310px;
+    height: 160px;
+}
